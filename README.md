@@ -20,6 +20,7 @@ Bu proje, E-Corp ile ilgili veri setlerinin detaylı analizini yaparak önemli �
 
 ## 📈 Elde Edilen Sonuçlar
 Projede yapılan analizler sonucunda E-Corp veri seti hakkında önemli içgörüler elde edilmiştir:
+
 Ürün Kalitesi: Analizler, ürün kalitesinin artırılmasının müşteri memnuniyetini ve bağlılığını yükseltebileceğini göstermektedir. Kaliteli ürünler, müşterilerin platformu önerme isteğini artırmaktadır.
 
 Kullanıcı Deneyimi: Platform arayüzünün daha sezgisel ve kullanıcı dostu hale getirilmesi, kullanıcıların platformu daha kolay ve verimli kullanmasını sağlamaktadır. Kullanıcı geri bildirimleri, paneldeki navigasyon ve etkileşim adımlarının sadeleştirilmesi gerektiğini ortaya koymaktadır.
