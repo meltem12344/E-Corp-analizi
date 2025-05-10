@@ -8,7 +8,6 @@ Bu proje, E-Corp ile ilgili veri setlerinin detaylı analizini yaparak önemli �
 - Veri seti incelenerek eksik veya hatalı veriler temizlenmiştir.
 - Verinin genel yapısı hakkında istatistiksel bilgiler çıkarılmıştır.
 - Görselleştirme teknikleri kullanılarak önemli trendler ve ilişkiler ortaya koyulmuştur.
-- Makine öğrenmesi veya istatistiksel yöntemler kullanılarak modelleme yapılmıştır (varsa).
 
 
 ## 📊 Kullanılan Teknolojiler
